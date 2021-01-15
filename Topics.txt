@@ -10,3 +10,5 @@ System Design
 https://www.youtube.com/watch?v=gf8R7sgme6o
 [Tech Dummies Narendra L]
 https://www.youtube.com/watch?v=pWO07iEpjO4
+[Grokking the System Design Interviews]
+https://www.youtube.com/watch?v=tVRyb4HaHgw&list=PLK8IOvtbwVsuYW8KovGg9o6dlhspym8O_
