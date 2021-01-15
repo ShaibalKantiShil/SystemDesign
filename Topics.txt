@@ -6,4 +6,7 @@ Big O
 https://www.youtube.com/watch?v=v4cd1O4zkGw
 
 System Design
+[Amazon System Design Preparation (SIP)]
 https://www.youtube.com/watch?v=gf8R7sgme6o
+[Tech Dummies Narendra L]
+https://www.youtube.com/watch?v=pWO07iEpjO4
