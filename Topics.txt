@@ -8,6 +8,9 @@ https://www.youtube.com/watch?v=5faMjKuB9bc
 Big O
 https://www.youtube.com/watch?v=v4cd1O4zkGw
 
+Zoo Keeper [Distributed System Coordination Manager]
+https://www.youtube.com/watch?v=AS5a91DOmks
+
 System Design
 [Amazon System Design Preparation (SIP)]
 https://www.youtube.com/watch?v=gf8R7sgme6o
