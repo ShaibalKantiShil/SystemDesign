@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=shs0KM3wKv8
 
 Database Sharding
 https://www.youtube.com/watch?v=5faMjKuB9bc
+https://www.youtube.com/watch?v=dkhOZOmV7Fo
 
 Big O
 https://www.youtube.com/watch?v=v4cd1O4zkGw
